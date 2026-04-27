@@ -1,6 +1,6 @@
 # ear-web-local
 
-This project is a Python-based bridge designed to resolve connection issues found in the original "ear-web" project. It enables stable Bluetooth communication between the web interface and your Nothing or CMF audio devices on Windows.
+This project is a Python-based bridge designed to resolve connection issues found in the original [ear-web](https://github.com/radiance-project/ear-web) project. It enables stable Bluetooth communication between the web interface and your Nothing or CMF audio devices on Windows.
 
 ## Overview
 
