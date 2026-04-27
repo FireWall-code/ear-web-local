@@ -40,7 +40,7 @@ The bridge acts as a local server that handles the low-level Bluetooth RFCOMM co
 
 ## Credits and Acknowledgements
 - FireWall developing the Python Bluetooth bridge, the startup script, and adding CMF device support
-   Members of the original project
+  ### Members of the original project
     - RapidZapper for the idea and backend work of the original project
     - [Bendix](https://www.mrbrickstar.de/) for the frontend work
     - [DerrenGoneDigital](https://twitter.com/DerrenDigital) for the logo
